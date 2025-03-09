@@ -1,7 +1,7 @@
 # solana-roadmap
 记录下学习solana的流程，本文持续更新中。
 
-## rust语法基础
+## Rust语法基础
 <https://doc.rust-lang.org/stable/rust-by-example/>
 
 如果你之前有一些开发经验的话，我推荐直接阅读rust example快速掌握语法，花上一天半天的时间把example上的例子过一遍。当然一般人不可能全部记住，但是下次看到不太懂的语法的时候可以快速找到例子对应的地方再熟悉下记忆。
