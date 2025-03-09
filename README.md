@@ -16,9 +16,15 @@
 
 ## Anchor 框架
 <https://www.anchor-lang.com/>
+
+Anchor是Solana的主要开发框架，用于构建Solana程序(智能合约)。主要有以下特点:
+- 简化了编写、测试、部署和与Solana程序交互的过程
+- 通过内置的安全特性帮助开发者更快地构建生产级应用，同时减少潜在的漏洞
+- 使用宏和特征来简化Rust代码，为程序提供清晰的结构，让开发者可以更专注于功能实现
+
 ### Anchor基础
-- 程序结构
-- IDL文件
+- [程序结构](./examples/lib.rs)
+- IDL文件(Interface Description Language)
 - PDA
 - 程序之间的交互
 
