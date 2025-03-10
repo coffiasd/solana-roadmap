@@ -27,7 +27,7 @@ Anchor是Solana的主要开发框架，用于构建Solana程序(智能合约)。
 - [Instruction Context](./examples/context.rs)
 - IDL文件(Interface Description Language)
 - [PDAs](./examples/pdas.rs)
-- 跨程序交互
+- [跨程序交互](./examples/icp.rs),[前端代码](./examples/cpi.test.ts)
 
 ### SPL Tokens
 
